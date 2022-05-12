@@ -50,3 +50,20 @@ git status
 git commit -m "this is my 1st commit" rajender
 git log
 vim
+git status
+git log
+mkdir folder{1---5}
+ll
+git add .
+git status
+git commit -m "my all commits" .
+git log
+rm -rf *
+git status
+ll
+touch devops.jpg{1..3}
+ll
+touch devops.pdf{1..3}
+touch devops.txt{1..3}
+ll
+vim .gitignore
